@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">widgets-android-example</string>
+    <string name="like_widget_text">Like</string>
+    <string name="add_widget">Add widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="this_app_has_widgets_only_try_adding_them_on_your_home_screen">This app has widgets only, try adding them on your home-screen</string>
+</resources>
